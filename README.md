@@ -2,13 +2,13 @@
   <img src="https://raw.githubusercontent.com/Coccinella-Labs/license/main/.github/assets/thumbnail.png" alt="license" width="100%">
 </p>
 
-# Emberlamp License Repository
+# Coccinella Labs License Repository
 
-This repository contains shared licenses and legal documents for all Emberlamp repositories.
+This repository contains shared licenses and legal documents for all Coccinella Labs repositories.
 
 ## Purpose
 
-Centralized license files to ensure consistency across all Emberlamp projects.
+Centralized license files to ensure consistency across all Coccinella Labs projects.
 
 ## Usage
 
